@@ -63,10 +63,10 @@ We have preconfigured the project with a simple development web server.  The sim
 this server is:
 
 ```
-npm start
+for WebStrom IDE, right click AngularJSDemo/demo-views/demoViews.html, and select "Run"
 ```
 
-Now browse to the app at `http://localhost:8000/app/index.html`.
+Now browse to the app at `http://localhost:xxxxx/AngularJSDemo/demo-views/demoViews.html`.
 
 
 ## Contact
